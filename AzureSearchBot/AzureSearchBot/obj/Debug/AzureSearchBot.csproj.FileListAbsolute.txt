@@ -1,0 +1,77 @@
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.dll.config
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.pdb
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Autofac.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Chronic.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Newtonsoft.Json.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Net.Http.Formatting.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.WebHost.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Autofac.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\Newtonsoft.Json.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Net.Http.Formatting.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.WebHost.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\obj\Debug\AzureSearchBot.csprojResolveAssemblyReference.cache
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\obj\Debug\Bot Application1.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot-master\CSharp\AzureSearchBot\AzureSearchBot\obj\Debug\Bot Application1.pdb
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.dll.config
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Bot Application1.pdb
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Autofac.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Chronic.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Newtonsoft.Json.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Net.Http.Formatting.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.WebHost.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Autofac.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Newtonsoft.Json.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Net.Http.Formatting.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\System.Web.Http.WebHost.xml
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\obj\Debug\Bot Application1.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\obj\Debug\Bot Application1.pdb
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ext_tomt\work\Code\NET\AzureSearchBot\CSharp\AzureSearchBot\AzureSearchBot\bin\Microsoft.Bot.Builder.Autofac.xml
